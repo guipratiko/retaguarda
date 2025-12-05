@@ -111,7 +111,6 @@ document.addEventListener('DOMContentLoaded', function () {
         <h2>${title}</h2>
         <p>Nossa equipe está pronta para atender você:</p>
         <div class="modal-buttons">
-          <a href="https://wa.me/556296976656" class="btn-whatsapp">WhatsApp</a>
           <a href="tel:+556232073834" class="btn-phone">Ligar</a>
         </div>
       </div>`;

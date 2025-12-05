@@ -24,7 +24,6 @@ Landing page moderna e responsiva para a Retaguarda Segurança Privada, empresa 
 ## 📞 Contato
 
 - **Telefone**: (62) 3207-3834
-- **WhatsApp**: (62) 9697-6656
 - **Localização**: Goiânia - Goiás
 
 ## 🔧 Desenvolvimento
